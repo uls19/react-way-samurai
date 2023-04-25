@@ -1,0 +1,24 @@
+
+.button__link {
+  background-color: blue;
+  padding: 10px 30px;
+  text-decoration: none ;
+  color:aliceblue;
+}
+.button__link:hover {
+  background-color: aliceblue;
+  color:blue;
+}
+
+.Feedback {
+  display: flex;
+  align-items: center;
+
+}
+.mail {
+  padding: 12px 10px;
+  outline: none;
+  margin: 0 10px;
+  
+  
+}
