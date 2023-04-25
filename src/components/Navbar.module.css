@@ -1,0 +1,15 @@
+.nav {
+  grid-area: nav;
+  background-color: rgb(2, 80, 54);
+
+}
+.item {
+  color: white;
+  cursor: pointer;
+}
+.item:hover {
+  color:red;
+}
+.item_active {
+  color: red;
+}

@@ -1,0 +1,17 @@
+
+
+.content {
+  grid-area: con;
+  background-color: blueviolet;
+
+}
+
+.content img {
+  max-width: 850px;
+}
+.content__image {
+  width: 100px;
+}
+.item {
+  color: yellowgreen;
+}
